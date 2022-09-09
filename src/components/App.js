@@ -1,9 +1,11 @@
 import './App.css';
 
+import WeatherMenu from './WeatherMenu'
+
 function App() {
   return (
     <div>
-      Weather App
+      <WeatherMenu />
     </div>
   );
 }
