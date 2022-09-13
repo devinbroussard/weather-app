@@ -2,7 +2,7 @@ import React from 'react';
 
 const WeatherMenu = () =>  {
     return (
-        <div className='card w-50 mx-auto my-auto bg-light bg-gradient px-5 py-5'>
+        <div className='card bg-light w-25 h-50'>
             test
         </div>
     );
